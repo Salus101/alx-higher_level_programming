@@ -1,16 +1,4 @@
 #!/usr/bin/python3
-for number in range(0, 100):
-    if number == 99:
-        print("{}".format(number))
-    else:
-        print("{:02}".format(number), end=", ")
-
-
-======================
-
-6-print_comb3.py
-
-#!/usr/bin/python3
 # 6-print_comb3.py
 
 """Print all possible different combinations of two digits in ascending order.
